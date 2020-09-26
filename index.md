@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Kaitlyn's Portfolio! 
 
-You can use the [editor on GitHub](https://github.com/kaitlynst1002/CIS350-HW2-Starkey/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This will be where projects from CIS 350 Software Engineering and additonal projects from various classes will be displayed. 
 
 ### Markdown
 
